@@ -39,15 +39,18 @@ Propogation Delay Graph vizualization
 <summary> Day-2 Good floorplan vs bad floorplan and introduction to library cells</summary>
 <p>
 
- 1.Run Floorplan command 
+1.Run Floorplan command 
 ![image](https://github.com/user-attachments/assets/f4a4df09-73ba-458a-a05a-16a4f36a7e88)
+
 
 2.Command running Floorplan in Magic
 ![image](https://github.com/user-attachments/assets/03c816d3-b82d-41b4-bc21-6a930de2a0c7)
 
+
 3.Command running Placement
 ![image](https://github.com/user-attachments/assets/293b0831-1137-43fa-b41f-07dc6153377f)
 ![image](https://github.com/user-attachments/assets/e126cddd-b7ff-4e38-af02-fc2cc496da39)
+
 
 4.Screenshot of def file of placement in magic 
 ![image](https://github.com/user-attachments/assets/57598941-1de5-4695-a57e-f84325b9bc14)
