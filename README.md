@@ -84,7 +84,24 @@ Propogation Delay Graph vizualization
 ![image](https://github.com/user-attachments/assets/67eecf96-f968-41de-9ea8-940f55dedf51)
 
 
+6.Identified Ground(VDD) from the layout using "s" key
+![image](https://github.com/user-attachments/assets/8ddaa436-2eb5-47b6-87e3-ea0a25abe250)
 
+
+7.Extracting spice file of inverter layout file using tkcon command line
+![WhatsApp Image 2024-12-11 at 19 58 57_b808f40a](https://github.com/user-attachments/assets/0a24c115-efe2-47e3-9049-490dd44c09a7)
+
+
+8.Extracted SPICE file screenshot in vim
+![WhatsApp Image 2024-12-11 at 19 59 45_f39d27ef](https://github.com/user-attachments/assets/1e20114c-760a-41d5-a23f-ef25a436a2b3)
+
+
+9.After making some required changes in the SPICE file:
+-Changing the load capcitance to remove the spikes during transition
+-Adding values for Pulse(VPULSE) 
+-Adding VDD and VSS values
+-Adding details about the analysis to perform
+-
  
 </p>
 </details>
