@@ -97,10 +97,10 @@ Propogation Delay Graph vizualization
 
 
 9.After making some required changes in the SPICE file:
- *Changing the load capcitance to remove the spikes during transition
- *Adding values for Pulse(VPULSE) 
- *Adding VDD and VSS values
- *Adding details about the analysis to perform
+  <li>Changing the load capcitance to remove the spikes during transition</li>
+ <li>Adding values for Pulse(VPULSE) </li>
+ <li>Adding VDD and VSS values</li>
+ <li>Adding details about the analysis to perform</li>
  
 </p>
 </details>
