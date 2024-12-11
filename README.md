@@ -1,5 +1,5 @@
 <details>
-<summary>Day-1  Inception of open-source EDA, OpenLANE and Sky130 PDK </summary>
+<summary> # Day-1  Inception of open-source EDA, OpenLANE and Sky130 PDK </summary>
 <p>
  Open Source ASIC Flow
 ![image](https://github.com/user-attachments/assets/43cd04c9-bacb-4a7b-9661-b91db6d0f76c)
@@ -25,7 +25,7 @@ Timing Characterisation
 Propogation Delay Graph vizualization
 ![image](https://github.com/user-attachments/assets/2e73f5ca-a910-4dfe-85e1-77177fbbf116)
 
-###Labs Screenshots
+### Labs Screenshots
 
 1.Openlane start command
 ![image](https://github.com/user-attachments/assets/ea0aa657-230b-4222-a112-81f23bed24a4)
@@ -35,7 +35,7 @@ Propogation Delay Graph vizualization
  </p>
 </details>
 <details>
-<summary>Day 2 </summary>
+<summary> # Day-2 Good floorplan vs bad floorplan and introduction to library cells </summary>
 <p>Your content goes here.</p>
 </details>
 <details>
