@@ -2,8 +2,8 @@
 <summary>Day-1  Inception of open-source EDA, OpenLANE and Sky130 PDK </summary>
 <p>
  Open Source ASIC Flow
-  ![image](https://github.com/user-attachments/assets/ceb90494-2765-4531-b7d5-854d207c707b)
-  
+![image](https://github.com/user-attachments/assets/43cd04c9-bacb-4a7b-9661-b91db6d0f76c)
+ 
 OPENLANE ASIC Design Flow
 ![image](https://github.com/user-attachments/assets/55e324b9-1826-4958-8b8c-d9a8e1f8893f)
 
