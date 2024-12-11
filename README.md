@@ -1,7 +1,8 @@
 <details>
 <summary> Day-1 Inception of open-source EDA, OpenLANE and Sky130 PDK </summary>
 <p>
- Open Source ASIC Flow
+
+Open Source ASIC Flow
 ![image](https://github.com/user-attachments/assets/43cd04c9-bacb-4a7b-9661-b91db6d0f76c)
  
 OPENLANE ASIC Design Flow
@@ -37,7 +38,8 @@ Propogation Delay Graph vizualization
 <details>
 <summary> Day-2 Good floorplan vs bad floorplan and introduction to library cells</summary>
 <p>
-1.Run Floorplan command 
+
+ 1.Run Floorplan command 
 ![image](https://github.com/user-attachments/assets/f4a4df09-73ba-458a-a05a-16a4f36a7e88)
 
 2.Command running Floorplan in Magic
