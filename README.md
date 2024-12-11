@@ -96,7 +96,7 @@ Propogation Delay Graph vizualization
 ![WhatsApp Image 2024-12-11 at 19 59 45_f39d27ef](https://github.com/user-attachments/assets/1e20114c-760a-41d5-a23f-ef25a436a2b3)
 
 
-9.After making some required changes in the SPICE file:
+<h3>9.After making some required changes in the SPICE file:</h3>
   <li>Changing the load capcitance to remove the spikes during transition</li>
  <li>Adding values for Pulse(VPULSE) </li>
  <li>Adding VDD and VSS values</li>
