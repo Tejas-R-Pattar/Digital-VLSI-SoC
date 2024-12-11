@@ -61,11 +61,28 @@ Propogation Delay Graph vizualization
 <details>
 
 <summary>Day 3  Design library cell using Magic Layout and ngspice characterization</summary>
-### hello 
 <p>
+1.Git cloning custom inverter standard cell design from github repository of Nickson Jose sir 
 
 
-	
+2. Viewing inverter in magic and also the console for other interactions
+![WhatsApp Image 2024-12-11 at 19 45 38_7f753439](https://github.com/user-attachments/assets/ccd0b068-34d0-4839-a0ad-c52d0a6de4ca)
+
+
+3.Identified PMOS from the layout using "s" key
+![WhatsApp Image 2024-12-11 at 19 48 22_eb5d4d74](https://github.com/user-attachments/assets/40c40d63-3329-41a6-9ada-0162fde429ad)
+
+
+4.Identified NMOS from the layout using "s" key
+![image](https://github.com/user-attachments/assets/b15df673-320c-476a-9d7a-b615a1d71f53)
+
+
+5.Identified VPwR from the layout using "s" key
+![image](https://github.com/user-attachments/assets/67eecf96-f968-41de-9ea8-940f55dedf51)
+
+
+
+ 
 </p>
 </details>
 <details>
