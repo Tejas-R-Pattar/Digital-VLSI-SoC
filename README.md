@@ -101,7 +101,6 @@ Propogation Delay Graph vizualization
 -Adding values for Pulse(VPULSE) 
 -Adding VDD and VSS values
 -Adding details about the analysis to perform
--
  
 </p>
 </details>
