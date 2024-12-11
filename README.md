@@ -1,5 +1,5 @@
 <details>
-<summary> # Day-1  Inception of open-source EDA, OpenLANE and Sky130 PDK </summary>
+<summary> **Day-1  Inception of open-source EDA, OpenLANE and Sky130 PDK** </summary>
 <p>
  Open Source ASIC Flow
 ![image](https://github.com/user-attachments/assets/43cd04c9-bacb-4a7b-9661-b91db6d0f76c)
@@ -35,7 +35,7 @@ Propogation Delay Graph vizualization
  </p>
 </details>
 <details>
-<summary> # Day-2 Good floorplan vs bad floorplan and introduction to library cells </summary>
+<summary> **Day-2 Good floorplan vs bad floorplan and introduction to library cells** </summary>
 <p>Your content goes here.</p>
 </details>
 <details>
