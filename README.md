@@ -59,8 +59,13 @@ Propogation Delay Graph vizualization
 </p>
 </details>
 <details>
-<summary>Day 3 </summary>
-<p>Your content goes here.</p>
+
+<summary>Day 3  Design library cell using Magic Layout and ngspice characterization</summary>
+<p>
+
+
+	
+</p>
 </details>
 <details>
 <summary>Day 4 </summary>
