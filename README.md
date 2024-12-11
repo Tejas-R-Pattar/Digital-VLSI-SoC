@@ -19,9 +19,19 @@ Cell Design Flow (Layout Design)
 Cell Design Flow(Characterization)
 ![image](https://github.com/user-attachments/assets/6840352f-244c-4991-a639-cca24e28cfc0)
 
+Timing Characterisation
+![image](https://github.com/user-attachments/assets/44ddca7b-d27f-4348-b6f4-cc3d0d4d0039)
 
+Propogation Delay Graph vizualization
+![image](https://github.com/user-attachments/assets/2e73f5ca-a910-4dfe-85e1-77177fbbf116)
 
-  
+###Labs Screenshots
+
+1.Openlane start command
+![image](https://github.com/user-attachments/assets/ea0aa657-230b-4222-a112-81f23bed24a4)
+
+2.Run Synthesis command
+![image](https://github.com/user-attachments/assets/3f20b98f-d4b2-4c84-8f47-fdaca0a8f58f)
  </p>
 </details>
 <details>
