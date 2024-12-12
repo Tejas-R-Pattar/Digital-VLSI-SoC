@@ -116,7 +116,13 @@ As you can see the spikes during the transistion time
 
 12.Plot obtained after changing the load capacitance
 We can observe that the spikes have been smoothened out due the changes in load capacitance
-![WhatsApp Image 2024-12-11 at 22 18 52_8d6e2c8d](https://github.com/user-attachments/assets/a0bc6d0d-600e-4047-baed-e43a71656f83)
+![WhatsApp Image 2024-12-11 at 22 18 52_1ef37f46](https://github.com/user-attachments/assets/272b86f9-6b29-4396-8cda-38d0b0d20885)
+
+<h3>13.Rise time calculatios</h3>
+<p>20% graph plot</p>
+<img>![WhatsApp Image 2024-12-11 at 22 18 52_1ef37f46](https://github.com/user-attachments/assets/c942b1ac-3b00-4d9b-81aa-96e10a2c4b0b)</img>
+
+
 
 </p>
 </details>
