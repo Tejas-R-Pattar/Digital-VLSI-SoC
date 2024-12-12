@@ -252,14 +252,14 @@ We can observe that the spikes have been smoothened out due the changes in load 
 ![WhatsApp Image 2024-12-12 at 15 48 23_869a1b00](https://github.com/user-attachments/assets/28b8c179-f4a0-43ff-9033-f73f42d42e30)
 
 <p>Changes made in the config.tcl file to change the lib file and add new lef files into the OPENLANE flow</p>
-<code>
+'''bash
  set ::env(LIB_SYNTH) "$::env(OPENLANE_ROOT)/designs/picorv32a/src/sky130_fd_sc_hd__typical.lib"
 set ::env(LIB_FASTEST) "$::env(OPENLANE_ROOT)/designs/picorv32a/src/sky130_fd_sc_hd__fast.lib"
 set ::env(LIB_SLOWEST) "$::env(OPENLANE_ROOT)/designs/picorv32a/src/sky130_fd_sc_hd__slow.lib"
 set ::env(LIB_TYPICAL) "$::env(OPENLANE_ROOT)/designs/picorv32a/src/sky130_fd_sc_hd__typical.lib"
 
 set ::env(EXTRA_LEFS) [glob $::env(OPENLANE_ROOT)/designs/$::env(DESIGN_NAME)/src/*.lef]
-</code>
+'''
 
 ![WhatsApp Image 2024-12-12 at 15 55 49_6caa3408](https://github.com/user-attachments/assets/e9f55efb-8066-4a86-a035-f9a80a6577c6)
 
