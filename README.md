@@ -89,11 +89,13 @@ Propogation Delay Graph vizualization
 
 
 7.Extracting spice file of inverter layout file using tkcon command line
-![WhatsApp Image 2024-12-11 at 19 58 57_b808f40a](https://github.com/user-attachments/assets/0a24c115-efe2-47e3-9049-490dd44c09a7)
+![image](https://github.com/user-attachments/assets/3b1d1494-f8dc-4670-9dcd-0613712c5b67)
+
 
 
 8.Extracted SPICE file screenshot in vim
-![WhatsApp Image 2024-12-11 at 19 59 45_f39d27ef](https://github.com/user-attachments/assets/1e20114c-760a-41d5-a23f-ef25a436a2b3)
+![image](https://github.com/user-attachments/assets/ae6cdbef-1607-4067-9189-ad43a17e3e78)
+
 
 
 <h3>9.After making some required changes in the SPICE file:</h3>
@@ -102,16 +104,15 @@ Propogation Delay Graph vizualization
  <li>Adding VDD and VSS values</li>
  <li>Adding details about the analysis to perform</li>
 
- <h3>10.Running NGSPICE for charaterisation</h3>
- ![WhatsApp Image 2024-12-11 at 22 12 47_b9e8d1a2](https://github.com/user-attachments/assets/21adfe29-04ab-46a9-83ca-72a5832f82f0)
+10.Running NGSPICE for charaterisation
+![image](https://github.com/user-attachments/assets/aff80527-c64f-4c98-820e-324652d8990d)
 
 
-<h3>11.Plots obtained from NGSPICE</h3>
-<p>As you can see the spikes during the transistion time</p>
+11.Plots obtained from NGSPICE
+As you can see the spikes during the transistion time
 ![WhatsApp Image 2024-12-11 at 22 13 48_09c52467](https://github.com/user-attachments/assets/cb0fbc1e-6ef1-4b8c-835c-c95228fc1e02)
 
-
-<h3>12.Plot obtained after changing the load capacitance</h3>
+12.Plot obtained after changing the load capacitance
 We can observe that the spikes have been smoothened out due the changes in load capacitance
 ![WhatsApp Image 2024-12-11 at 22 18 52_8d6e2c8d](https://github.com/user-attachments/assets/a0bc6d0d-600e-4047-baed-e43a71656f83)
 
