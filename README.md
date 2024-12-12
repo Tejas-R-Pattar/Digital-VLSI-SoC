@@ -1,5 +1,8 @@
 <h1>Digital VLSI SoC Design and Planning</h1>
 
+![8](https://github.com/user-attachments/assets/0f573b99-c77b-4df5-91df-c5e45df1efe2)
+
+>A two-week workshop on digital VLSI System-on-Chip (SoC) design and planning, featuring a comprehensive RTL to GDSII flow, is being organized by VSD in partnership with NASSCOM.
 
 <h2>Inception of open-source EDA, OpenLANE and Sky130 PDK</h2>
 <details>
