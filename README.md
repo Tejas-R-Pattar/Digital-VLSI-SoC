@@ -168,6 +168,33 @@ We can observe that the spikes have been smoothened out due the changes in load 
 
 <img>![WhatsApp Image 2024-12-12 at 13 39 20_0103fc4b](https://github.com/user-attachments/assets/b14274ee-1f23-4b0d-ac8e-6c7809f39d1c)</img>
 
+<h3>15.LAB Challenge of correcting DRC rules using skywater 130nm documentation</h3>
+<p>Downloading the files,Unziping it and listing the obtained files done on the following screenshot.</p>
+
+<img>![WhatsApp Image 2024-12-12 at 13 44 31_eb04256b](https://github.com/user-attachments/assets/a2e4e94b-d8cc-4d61-a99d-14196ac892de)</img>
+
+<p>Screenshot of the .magicrc file</p>
+
+<img>![WhatsApp Image 2024-12-12 at 13 53 03_c3694a95](https://github.com/user-attachments/assets/6e1c549e-89b8-4d73-aef8-39c0f369e8f2)</img>
+
+<p>Command run on the terimanl to open the magic window</p>
+
+<img>![WhatsApp Image 2024-12-12 at 13 55 09_3742754d](https://github.com/user-attachments/assets/12b11e6e-949d-4484-8295-47b9f263a02d)</img>
+
+<p>Screen shot of the Magic window and checking the DRC rule violation using 
+ <code>drc why</code>
+</p>
+
+<img>![WhatsApp Image 2024-12-12 at 13 56 51_bb6af292](https://github.com/user-attachments/assets/5505d78a-38e8-434e-9cc0-c2896fc5630d)</img>
+
+<p>Verifying the Edge rule violation using the <code>box</code> command </p>
+
+<img>![WhatsApp Image 2024-12-12 at 14 54 03_6d15f27c](https://github.com/user-attachments/assets/d98bb1a9-ff12-4d7b-850e-c040ecdde8be)</img>
+
+
+
+
+
 
 
 </p>
