@@ -264,6 +264,15 @@ set ::env(EXTRA_LEFS) [glob $::env(OPENLANE_ROOT)/designs/$::env(DESIGN_NAME)/sr
 
 ![WhatsApp Image 2024-12-12 at 15 55 49_6caa3408](https://github.com/user-attachments/assets/e9f55efb-8066-4a86-a035-f9a80a6577c6)
 
+<p>Opening OPENLANE using <code>docker</code> command and starting an interactice session using <code>./flow.tcl -interactive</code> </p>
+
+![WhatsApp Image 2024-12-12 at 16 01 27_f5668447](https://github.com/user-attachments/assets/91e8fbbb-94b3-4df8-886e-16ee6ddc1833)
+
+<p>Error I faced and i corrected it by replacing</p>
+<li>LIB_MAX with LIB_SLOWEST </li>
+<li>LIB_MIN with LIB_FASTEST</li>
+
+![WhatsApp Image 2024-12-12 at 16 03 49_533aca80](https://github.com/user-attachments/assets/519c48c2-d15e-4b79-b07c-c5071052c306)
 
 
 
