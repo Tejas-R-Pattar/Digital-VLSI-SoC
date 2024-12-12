@@ -329,8 +329,3 @@ set ::env(EXTRA_LEFS) [glob $::env(OPENLANE_ROOT)/designs/$::env(DESIGN_NAME)/sr
 
 </p>
 </details>
-<h2>Final steps for RTL2GDS using tritonRoute and openSTA</h2>
-<details>
-<summary>Day 5 </summary>
-<p>Your content goes here.</p>
-</details>
