@@ -181,7 +181,7 @@ We can observe that the spikes have been smoothened out due the changes in load 
 
 <img>![WhatsApp Image 2024-12-12 at 13 55 09_3742754d](https://github.com/user-attachments/assets/12b11e6e-949d-4484-8295-47b9f263a02d)</img>
 
-<p>Screen shot of the Magic window and checking the DRC rule violation using 
+<p>Screen shot of the Magic window and checking the DRC rule violation using <br/>
  <code>drc why</code>
 </p>
 
