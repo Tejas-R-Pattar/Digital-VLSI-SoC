@@ -271,9 +271,15 @@ set ::env(EXTRA_LEFS) [glob $::env(OPENLANE_ROOT)/designs/$::env(DESIGN_NAME)/sr
 <p>Error I faced and i corrected it by replacing</p>
 <li>LIB_MAX with LIB_SLOWEST </li>
 <li>LIB_MIN with LIB_FASTEST</li>
+<br/>
 
 ![WhatsApp Image 2024-12-12 at 16 03 49_533aca80](https://github.com/user-attachments/assets/519c48c2-d15e-4b79-b07c-c5071052c306)
 
+![WhatsApp Image 2024-12-12 at 16 03 49_533aca80](https://github.com/user-attachments/assets/43ea8ce5-1546-4b74-b847-184ada9792e6)
+
+<p>Screenshot of successfully running <code>run_synthesis</code> command </p>
+
+![WhatsApp Image 2024-12-12 at 16 03 49_533aca80](https://github.com/user-attachments/assets/ac5e36bd-0e99-4eed-8424-f495518875bf)
 
 
 
