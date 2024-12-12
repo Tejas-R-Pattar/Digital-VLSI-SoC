@@ -1,5 +1,7 @@
+<h2>Inception of open-source EDA, OpenLANE and Sky130 PDK</h2>
+<hr>
 <details>
-<summary> Day-1 Inception of open-source EDA, OpenLANE and Sky130 PDK </summary>
+<summary> Day-1  </summary>
 <p>
 
 Open Source ASIC Flow
