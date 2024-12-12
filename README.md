@@ -195,7 +195,7 @@ We can observe that the spikes have been smoothened out due the changes in load 
 
 <img>![WhatsApp Image 2024-12-12 at 14 58 35_b147937e](https://github.com/user-attachments/assets/4542116b-215a-4d35-b40b-c2a7b5b3e21d)</img>
 
-<p>Successfully identifying <i>npolyres</i> and <li>poly</li> mask layer using tkcon window</p>
+<p>Successfully identifying <i>npolyres</i> and <i>poly</i> mask layer using tkcon window</p>
 
 <img>![WhatsApp Image 2024-12-12 at 15 02 17_265e3cb1](https://github.com/user-attachments/assets/41427403-8118-4ead-8551-6d592cb1355d)</img>
 
