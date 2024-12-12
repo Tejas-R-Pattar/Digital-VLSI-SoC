@@ -82,10 +82,10 @@ Propogation Delay Graph vizualization
 <details>
 <summary>Day 3  </summary>
 <p>
-1.Git cloning custom inverter standard cell design from github repository of Nickson Jose sir 
+<p>1.Git cloning custom inverter standard cell design from github repository of Nickson Jose sir</p> 
 
 
-2. Viewing inverter in magic and also the console for other interactions
+<p>2. Viewing inverter in magic and also the console for other interactions </p>
 3. 
 ![WhatsApp Image 2024-12-11 at 19 45 38_7f753439](https://github.com/user-attachments/assets/ccd0b068-34d0-4839-a0ad-c52d0a6de4ca)
 
