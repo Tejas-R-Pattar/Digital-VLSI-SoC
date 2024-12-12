@@ -219,6 +219,16 @@ We can observe that the spikes have been smoothened out due the changes in load 
 
 <img>![WhatsApp Image 2024-12-12 at 15 15 26_50e13b4e](https://github.com/user-attachments/assets/075bcc62-897d-4f84-8d71-21a07a4f2e69)</img>
 
+<p>Verifying the creation of the LEF file using the terminal</p>
+
+<img>![WhatsApp Image 2024-12-12 at 15 19 33_f3016a3a](https://github.com/user-attachments/assets/6ce6498c-d124-483a-90e4-e0efcafd4079)</img>
+
+<p>Screenshot of the content of the generated LEF file</p>
+
+![WhatsApp Image 2024-12-12 at 15 21 31_e39886e0](https://github.com/user-attachments/assets/d47e978d-72c6-4cff-80be-443225a728e6)
+
+
+
 
 </p>
 </details>
