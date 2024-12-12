@@ -107,7 +107,7 @@ Propogation Delay Graph vizualization
 
 
 <h3>11.Plots obtained from NGSPICE</h3>
-As you can see the spikes during the transistion time
+<p>As you can see the spikes during the transistion time</p>
 ![WhatsApp Image 2024-12-11 at 22 13 48_09c52467](https://github.com/user-attachments/assets/cb0fbc1e-6ef1-4b8c-835c-c95228fc1e02)
 
 
