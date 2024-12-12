@@ -207,7 +207,6 @@ We can observe that the spikes have been smoothened out due the changes in load 
 <h2>Pre-layout timing analysis and importance of good clock tree</h2>
  <br/>
 <details>
-
 <summary>Day 4 </summary>
 <p>
  <p>Changing the grid size according to the metal tracks dimensions</p>
