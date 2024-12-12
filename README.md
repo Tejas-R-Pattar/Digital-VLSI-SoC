@@ -112,30 +112,28 @@ Propogation Delay Graph vizualization
 
 11.Plots obtained from NGSPICE
 As you can see the spikes during the transistion time
+
 ![WhatsApp Image 2024-12-11 at 22 13 48_09c52467](https://github.com/user-attachments/assets/cb0fbc1e-6ef1-4b8c-835c-c95228fc1e02)
 
 12.Plot obtained after changing the load capacitance
 We can observe that the spikes have been smoothened out due the changes in load capacitance
+
 ![WhatsApp Image 2024-12-11 at 22 18 52_1ef37f46](https://github.com/user-attachments/assets/272b86f9-6b29-4396-8cda-38d0b0d20885)
 
 <h3>13.Rise time calculatios</h3>
 <p>20% graph plot</p>
-<br/>
 
 ![WhatsApp Image 2024-12-12 at 12 41 12_3a90a9d7](https://github.com/user-attachments/assets/2a64f5d7-77dd-4e4d-ac70-a7e20ab254b4)
 
 <p>80% graph plot</p>
-<br/>
 
 <img>![WhatsApp Image 2024-12-12 at 12 42 33_5a5c0b4a](https://github.com/user-attachments/assets/2cdfa141-2e98-4b2a-98e2-4e3ee4ee7ca1)</img>
 
 <p>Value of the points obtained from the above two plots</p>
-<br/>
 
 <img>![WhatsApp Image 2024-12-12 at 12 44 06_a340f83d](https://github.com/user-attachments/assets/771c8c75-fea0-4d9d-a0bf-cfd3714cf402)</img>
 
 <p>Calculation of Rise Transition Time</p>
-<br/>
 
 <img>![WhatsApp Image 2024-12-12 at 12 46 42_3d44cb76](https://github.com/user-attachments/assets/bebbdeb9-56d0-4856-9bba-05fd554b42bc)</img>
 
