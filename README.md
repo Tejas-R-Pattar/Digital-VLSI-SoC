@@ -137,6 +137,15 @@ We can observe that the spikes have been smoothened out due the changes in load 
 
 <img>![WhatsApp Image 2024-12-12 at 12 46 42_3d44cb76](https://github.com/user-attachments/assets/bebbdeb9-56d0-4856-9bba-05fd554b42bc)</img>
 
+<h3>14.Rise cell delay calculations</h3>
+<p>50% graph plot</p>
+
+<img>![WhatsApp Image 2024-12-12 at 13 37 43_e6d3fbb1](https://github.com/user-attachments/assets/33261c95-1409-4561-b35a-6429bb96f350)</img>
+
+<p>Calculations of Rise Cell delay with obtained values</p>
+
+<img>![WhatsApp Image 2024-12-12 at 13 39 20_0103fc4b](https://github.com/user-attachments/assets/b14274ee-1f23-4b0d-ac8e-6c7809f39d1c)</img>
+
 
 
 </p>
