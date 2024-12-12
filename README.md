@@ -1,5 +1,4 @@
 <h2>Inception of open-source EDA, OpenLANE and Sky130 PDK</h2>
-<hr>
 <details>
 <summary> Day-1  </summary>
 <p>
@@ -77,9 +76,10 @@ Propogation Delay Graph vizualization
  
 </p>
 </details>
-<details>
 
-<summary>Day 3  Design library cell using Magic Layout and ngspice characterization</summary>
+<h2>Design library cell using Magic Layout and ngspice characterization</h2>
+<details>
+<summary>Day 3  </summary>
 <p>
 1.Git cloning custom inverter standard cell design from github repository of Nickson Jose sir 
 
@@ -207,7 +207,6 @@ We can observe that the spikes have been smoothened out due the changes in load 
 </p>
 </details>
 <h2>Pre-layout timing analysis and importance of good clock tree</h2>
- <br/>
 <details>
 <summary>Day 4 </summary>
 <p>
@@ -323,6 +322,7 @@ set ::env(EXTRA_LEFS) [glob $::env(OPENLANE_ROOT)/designs/$::env(DESIGN_NAME)/sr
 
 </p>
 </details>
+<h2>Final steps for RTL2GDS using tritonRoute and openSTA</h2>
 <details>
 <summary>Day 5 </summary>
 <p>Your content goes here.</p>
