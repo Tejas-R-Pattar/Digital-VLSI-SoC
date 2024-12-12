@@ -199,7 +199,7 @@ We can observe that the spikes have been smoothened out due the changes in load 
 
 <img>![WhatsApp Image 2024-12-12 at 15 02 17_265e3cb1](https://github.com/user-attachments/assets/41427403-8118-4ead-8551-6d592cb1355d)</img>
 
-<h4>The correction executed in the program for illustration purpose was successfully implemted,but the screenshots were not recovered properly.</h4>
+<h4>The correction of various DRC rules executed in the program for illustration purpose was successfully implemted,but the screenshots were not recovered properly.</h4>
 
 
 </p>
@@ -242,6 +242,41 @@ We can observe that the spikes have been smoothened out due the changes in load 
 <p>Screenshot of the content of the generated LEF file</p>
 
 ![WhatsApp Image 2024-12-12 at 15 21 31_e39886e0](https://github.com/user-attachments/assets/d47e978d-72c6-4cff-80be-443225a728e6)
+
+<p>Content of the picorv32a/src folder before copying the generated file</p>
+
+![WhatsApp Image 2024-12-12 at 15 44 07_d17ce197](https://github.com/user-attachments/assets/ef02c956-c4a0-41a8-8512-a7486aadadd3)
+
+<p>Verification of the contents of the <code>picorv32a/src</code> directory </p>
+
+![WhatsApp Image 2024-12-12 at 15 48 23_869a1b00](https://github.com/user-attachments/assets/28b8c179-f4a0-43ff-9033-f73f42d42e30)
+
+<p>Changes made in the config.tcl file to change the lib file and add new lef files into the OPENLANE flow</p>
+<code>
+ set ::env(LIB_SYNTH) "$::env(OPENLANE_ROOT)/designs/picorv32a/src/sky130_fd_sc_hd__typical.lib"
+set ::env(LIB_FASTEST) "$::env(OPENLANE_ROOT)/designs/picorv32a/src/sky130_fd_sc_hd__fast.lib"
+set ::env(LIB_SLOWEST) "$::env(OPENLANE_ROOT)/designs/picorv32a/src/sky130_fd_sc_hd__slow.lib"
+set ::env(LIB_TYPICAL) "$::env(OPENLANE_ROOT)/designs/picorv32a/src/sky130_fd_sc_hd__typical.lib"
+
+set ::env(EXTRA_LEFS) [glob $::env(OPENLANE_ROOT)/designs/$::env(DESIGN_NAME)/src/*.lef]
+</code>
+
+![WhatsApp Image 2024-12-12 at 15 55 49_6caa3408](https://github.com/user-attachments/assets/e9f55efb-8066-4a86-a035-f9a80a6577c6)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </p>
 </details>
