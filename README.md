@@ -191,10 +191,33 @@ We can observe that the spikes have been smoothened out due the changes in load 
 
 <img>![WhatsApp Image 2024-12-12 at 14 54 03_6d15f27c](https://github.com/user-attachments/assets/d98bb1a9-ff12-4d7b-850e-c040ecdde8be)</img>
 
+<p>Inserting metal contact in grid fashion using the tkcon window</p>
 
+<img>![WhatsApp Image 2024-12-12 at 14 58 35_b147937e](https://github.com/user-attachments/assets/4542116b-215a-4d35-b40b-c2a7b5b3e21d)</img>
 
+<p>Successfully identifying <i>npolyres</i> and <li>poly</li> mask layer using tkcon window</p>
 
+<img>![WhatsApp Image 2024-12-12 at 15 02 17_265e3cb1](https://github.com/user-attachments/assets/41427403-8118-4ead-8551-6d592cb1355d)</img>
 
+<p>Changing the grid size according to the metal tracks dimensions</p>
+
+<img>![WhatsApp Image 2024-12-12 at 15 05 28_d44d7e4e](https://github.com/user-attachments/assets/54e1580f-5a25-4675-ac8c-8d2e7113b608)</img>
+
+<p>Screenshot of the changed grid size in Magic window</p>
+
+<img>![WhatsApp Image 2024-12-12 at 15 08 33_584b93c2](https://github.com/user-attachments/assets/bee84c8c-e1d1-4e98-b9dd-29dae3080b9f)</img>
+
+<img>![WhatsApp Image 2024-12-12 at 15 10 26_96678695](https://github.com/user-attachments/assets/4d829027-fcb8-4344-afd6-4d12a4d99ec5)</img>
+
+<p>Saving the layout file of Magic window using </p>
+<code>save sky130_vsdinv.mag</code>
+
+<img>![WhatsApp Image 2024-12-12 at 15 10 07_20205ebe](https://github.com/user-attachments/assets/d8f5fc76-af0b-42c8-8496-089b18924718)</img>
+
+<p>Creating a LEF file from the layout file using the command</p>
+<code>lef write</code>
+
+<img>![WhatsApp Image 2024-12-12 at 15 15 26_50e13b4e](https://github.com/user-attachments/assets/075bcc62-897d-4f84-8d71-21a07a4f2e69)</img>
 
 
 </p>
