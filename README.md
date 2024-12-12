@@ -218,10 +218,12 @@ We can observe that the spikes have been smoothened out due the changes in load 
 <li>The input and output ports of the standard cell should lie on the intersection of the vertical and horizontal tracks.</li>
 <li> Width of the standard cell should be odd multiples of the horizontal track pitch.</li>
 <li>Height of the standard cell should be even multiples of the vertical track pitch.</li>
-
+<br/>
 
 <p>Saving the layout file of Magic window using </p>
+
 <code>save sky130_vsdinv.mag</code>
+<br/>
 
 <img>![WhatsApp Image 2024-12-12 at 15 10 07_20205ebe](https://github.com/user-attachments/assets/d8f5fc76-af0b-42c8-8496-089b18924718)</img>
 
