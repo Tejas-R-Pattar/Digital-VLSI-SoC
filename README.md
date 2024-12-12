@@ -1,3 +1,6 @@
+<h1>Digital VLSI SoC Design and Planning</h1>
+
+
 <h2>Inception of open-source EDA, OpenLANE and Sky130 PDK</h2>
 <details>
 <summary> Day-1  </summary>
