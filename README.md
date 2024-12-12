@@ -46,8 +46,9 @@ Propogation Delay Graph vizualization
 ![image](https://github.com/user-attachments/assets/3f20b98f-d4b2-4c84-8f47-fdaca0a8f58f)
  </p>
 </details>
+<h2>Good floorplan vs bad floorplan and introduction to library cells</h2>
 <details>
-<summary> Day-2 Good floorplan vs bad floorplan and introduction to library cells</summary>
+<summary> Day-2 </summary>
 <p>
 
 1.Run Floorplan command 
