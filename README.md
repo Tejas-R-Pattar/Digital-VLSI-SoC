@@ -121,7 +121,7 @@ We can observe that the spikes have been smoothened out due the changes in load 
 <h3>13.Rise time calculatios</h3>
 <p>20% graph plot</p>
 <br/>
-<img>![WhatsApp Image 2024-12-12 at 12 41 12_3a90a9d7](https://github.com/user-attachments/assets/2a64f5d7-77dd-4e4d-ac70-a7e20ab254b4)</img>
+![WhatsApp Image 2024-12-12 at 12 41 12_3a90a9d7](https://github.com/user-attachments/assets/2a64f5d7-77dd-4e4d-ac70-a7e20ab254b4)
 
 <p>80% graph plot</p>
 <br/>
