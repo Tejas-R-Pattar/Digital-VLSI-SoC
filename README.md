@@ -103,7 +103,8 @@ Propogation Delay Graph vizualization
  <li>Adding values for Pulse(VPULSE) </li>
  <li>Adding VDD and VSS values</li>
  <li>Adding details about the analysis to perform</li>
-
+<br/>
+<br/>
 10.Running NGSPICE for charaterisation
 ![image](https://github.com/user-attachments/assets/aff80527-c64f-4c98-820e-324652d8990d)
 
