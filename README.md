@@ -105,8 +105,9 @@ Propogation Delay Graph vizualization
  <li>Adding details about the analysis to perform</li>
 <br/>
 <br/>
+
 10.Running NGSPICE for charaterisation
-![image](https://github.com/user-attachments/assets/aff80527-c64f-4c98-820e-324652d8990d)
+<img>![image](https://github.com/user-attachments/assets/aff80527-c64f-4c98-820e-324652d8990d)</img>
 
 
 11.Plots obtained from NGSPICE
