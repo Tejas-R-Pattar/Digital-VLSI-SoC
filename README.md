@@ -214,6 +214,12 @@ We can observe that the spikes have been smoothened out due the changes in load 
 
 <img>![WhatsApp Image 2024-12-12 at 15 10 26_96678695](https://github.com/user-attachments/assets/4d829027-fcb8-4344-afd6-4d12a4d99ec5)</img>
 
+<p>We verified the following coniditions are met to fix the DRC error and verify that the design ready to be plugged into the flow</p>
+<li>The input and output ports of the standard cell should lie on the intersection of the vertical and horizontal tracks.</li>
+<li> Width of the standard cell should be odd multiples of the horizontal track pitch.</li>
+<li>Height of the standard cell should be even multiples of the vertical track pitch.</li>
+
+
 <p>Saving the layout file of Magic window using </p>
 <code>save sky130_vsdinv.mag</code>
 
