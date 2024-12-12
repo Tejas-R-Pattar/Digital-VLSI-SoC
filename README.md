@@ -268,7 +268,7 @@ set ::env(EXTRA_LEFS) [glob $::env(OPENLANE_ROOT)/designs/$::env(DESIGN_NAME)/sr
 
 ![WhatsApp Image 2024-12-12 at 16 01 27_f5668447](https://github.com/user-attachments/assets/91e8fbbb-94b3-4df8-886e-16ee6ddc1833)
 
-<p>Error I faced and i corrected it by replacing</p>
+<p>Error I faced and I corrected it by replacing</p>
 <li>LIB_MAX with LIB_SLOWEST </li>
 <li>LIB_MIN with LIB_FASTEST</li>
 <br/>
@@ -277,14 +277,37 @@ set ::env(EXTRA_LEFS) [glob $::env(OPENLANE_ROOT)/designs/$::env(DESIGN_NAME)/sr
 
 ![WhatsApp Image 2024-12-12 at 16 03 49_533aca80](https://github.com/user-attachments/assets/43ea8ce5-1546-4b74-b847-184ada9792e6)
 
+<p>Screenshot of successfully running <code>prep -design picorv32a</code> command </p>
+
+![WhatsApp Image 2024-12-13 at 00 20 29_780c38b4](https://github.com/user-attachments/assets/a0e8783f-4e07-4d22-879e-a44c85726701)
+
 <p>Screenshot of successfully running <code>run_synthesis</code> command </p>
 
-![WhatsApp Image 2024-12-12 at 16 03 49_533aca80](https://github.com/user-attachments/assets/ac5e36bd-0e99-4eed-8424-f495518875bf)
+![WhatsApp Image 2024-12-13 at 00 24 00_d0a7602e](https://github.com/user-attachments/assets/f71b0a15-bb77-44b3-880f-7c68feb564d5)
 
+<p>Examing and setting various variables related to SYNTH_STRATERGY and SYNTH_SIZING and SYNTH_DRIVING _CELL</p>
 
+![WhatsApp Image 2024-12-13 at 00 26 36_df4fbba2](https://github.com/user-attachments/assets/af85337d-cf1f-4fe3-8e26-e03919dde486)
 
+<P>Errors faced during <code>run_floorplan</code> which was later corrected </P>
 
+![WhatsApp Image 2024-12-13 at 00 30 08_31b892db](https://github.com/user-attachments/assets/1d3008ba-14d3-4af7-b400-205d6a3bab37)
 
+<p>Screenshot of the <code>run_placement</code> command </p>
+
+![WhatsApp Image 2024-12-13 at 00 31 53_a6270b14](https://github.com/user-attachments/assets/56bb771c-259e-42d3-a169-df701cf2a9d6)
+
+<p>Screemshot of the DEF in magic </p>
+
+![WhatsApp Image 2024-12-13 at 00 35 12_97863266](https://github.com/user-attachments/assets/82053033-12df-4b1a-a737-e80bcbbf3762)
+
+<p>Screenshot of custom inverter inserted in placement DEF with proper abutment</p>
+
+![image](https://github.com/user-attachments/assets/6ced1baa-ebff-49f3-bce7-98ebc7802d89)
+
+<p>Screenshot of proper abutment of power pins with other cell from library</p>
+
+![image](https://github.com/user-attachments/assets/13323af3-52ff-4fdd-91eb-52b794cec97c)
 
 
 
