@@ -101,7 +101,20 @@ Propogation Delay Graph vizualization
  <li>Adding values for Pulse(VPULSE) </li>
  <li>Adding VDD and VSS values</li>
  <li>Adding details about the analysis to perform</li>
- 
+
+ <h3>10.Running NGSPICE for charaterisation</h3>
+ ![WhatsApp Image 2024-12-11 at 22 12 47_b9e8d1a2](https://github.com/user-attachments/assets/21adfe29-04ab-46a9-83ca-72a5832f82f0)
+
+
+<h3>11.Plots obtained from NGSPICE</h3>
+As you can see the spikes during the transistion time
+![WhatsApp Image 2024-12-11 at 22 13 48_09c52467](https://github.com/user-attachments/assets/cb0fbc1e-6ef1-4b8c-835c-c95228fc1e02)
+
+
+<h3>12.Plot obtained after changing the load capacitance</h3>
+We can observe that the spikes have been smoothened out due the changes in load capacitance
+![WhatsApp Image 2024-12-11 at 22 18 52_8d6e2c8d](https://github.com/user-attachments/assets/a0bc6d0d-600e-4047-baed-e43a71656f83)
+
 </p>
 </details>
 <details>
