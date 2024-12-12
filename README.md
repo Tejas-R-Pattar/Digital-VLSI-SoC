@@ -199,7 +199,12 @@ We can observe that the spikes have been smoothened out due the changes in load 
 
 <img>![WhatsApp Image 2024-12-12 at 15 02 17_265e3cb1](https://github.com/user-attachments/assets/41427403-8118-4ead-8551-6d592cb1355d)</img>
 
-<p>Changing the grid size according to the metal tracks dimensions</p>
+</p>
+</details>
+<details>
+<summary>Day 4 </summary>
+<p>
+ <p>Changing the grid size according to the metal tracks dimensions</p>
 
 <img>![WhatsApp Image 2024-12-12 at 15 05 28_d44d7e4e](https://github.com/user-attachments/assets/54e1580f-5a25-4675-ac8c-8d2e7113b608)</img>
 
@@ -227,14 +232,7 @@ We can observe that the spikes have been smoothened out due the changes in load 
 
 ![WhatsApp Image 2024-12-12 at 15 21 31_e39886e0](https://github.com/user-attachments/assets/d47e978d-72c6-4cff-80be-443225a728e6)
 
-
-
-
 </p>
-</details>
-<details>
-<summary>Day 4 </summary>
-<p>Your content goes here.</p>
 </details>
 <details>
 <summary>Day 5 </summary>
